@@ -1,3 +1,7 @@
+<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/a8c217d8-6993-4cb4-a4aa-302a953d089a" />
+
+---
+
 # 🏎️ Data Source Documentation
 
 This repository utilizes a multi-table, historical motorsport dataset to analyze Formula 1 championship trends, telemetry summaries, race craft delta, and team performance metrics.
