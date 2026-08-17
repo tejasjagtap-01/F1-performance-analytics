@@ -100,3 +100,19 @@ The analytical datasets were synthesized into an interactive Power BI Executive 
 
 ### 3. Engineering & R&D Prioritization Under Cost Cap
 * **Powertrain Integrity:** Engine and gearbox failures account for over $60\%$ of mechanical retirements in F1 history. Under cost-cap constraints, internal combustion and hybrid durability upgrades offer higher championship ROI than minor aerodynamic package updates.
+
+---
+
+* ## 👤 Contact & Connect
+
+This end-to-end pipeline and analytical report was developed by **Tejas Jagtap**. 
+
+I am a **Data Analytics learner** focused on bridging the gap between robust data infrastructure and executive decision-making. I specialize in designing clean ETL architectures, authoring complex server-side analytical data models, and translating tracking metrics into high-impact interactive visual stories.
+
+* **Core Competencies:** Full-Stack Data Engineering, Database Modeling (SQL/PostgreSQL), Python Automation, UI/UX Dashboard Design (Power BI).
+* **📬 Let's Connect:** www.linkedin.com/in/tejasjagtap01 | [GitHub] https://github.com/tejasjagtap-01
+* |[Portfolio/Website:  https://mavenshowcase.com/profile/788113c0-5061-70b8-3303-fdd74d72b9be 
+
+## 📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
