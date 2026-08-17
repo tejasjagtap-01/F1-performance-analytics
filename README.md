@@ -1,3 +1,9 @@
+<img width="1482" height="728" alt="git post" src="https://github.com/user-attachments/assets/1997a5f3-6f7a-4cf9-9681-8160fb4c5194" />
+
+
+
+---
+
 #  Section 1: Python EDA & Data Transformation Summary
 
 Processed 14 relational tables (1950–2024, 1,100+ Grands Prix) using Python, Pandas, Matplotlib, and Seaborn to clean historical telemetry, engineer racecraft metrics, and generate `fact_race_results.csv` for downstream SQL and Power BI modeling.
