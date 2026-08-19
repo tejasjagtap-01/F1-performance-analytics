@@ -84,7 +84,7 @@ The analytical datasets were synthesized into an interactive Power BI Executive 
   * *2017:* Lewis Hamilton converted Pole to P1, while Max Verstappen produced a $+12$ position charge ($\text{P16} \rightarrow \text{P4}$).
   * *2023:* Max Verstappen broke COTA's standard pole-to-win pattern by winning from Grid 6 ($+5$ places).
 * **2024 Modern Intelligence:** 
-  * *Saudi Arabian GP:* Red Bull 1-2 finish; rookie Oliver Bearman gained $+4$ positions ($\text{P11} \rightarrow \text{P7}$) on Ferrari debut.
+  * *Saudi Arabian GP:* Red Bull 1-2 finish; rookie Oliver Bearman gained +4 positions ($\text{P11} \rightarrow \text{P7}$) on Ferrari debut.
   * *Dutch GP (Zandvoort):* Lando Norris converted Pole to victory ($+26\text{ PTS}$ with fastest lap), ending Verstappen's streak at Zandvoort, while Lewis Hamilton gained $+6$ places from P14. Historically at Zandvoort, Jim Clark holds the all-time victory benchmark (4 wins, 6 podiums).
 
 ---
