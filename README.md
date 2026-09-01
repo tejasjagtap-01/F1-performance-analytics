@@ -2,6 +2,13 @@
 
 ---
 
+## 📑 Table of Contents
+* [Section 1: Python EDA & Data Transformation Summary](#section-1-python-eda--data-transformation-summary)
+* [Section 2: PostgreSQL Business Logic & Relational Deep-Dive](#section-2-postgresql-business-logic--relational-deep-dive)
+* [Section 3: Power BI Intelligence & Multi-Era Dashboard Summary](#section-3-power-bi-intelligence--multi-era-dashboard-summary)
+* [Comprehensive Final Findings & Strategic Recommendations](#comprehensive-final-findings--strategic-recommendations)
+
+---
 
 #  Section 1: Python EDA & Data Transformation Summary
 
